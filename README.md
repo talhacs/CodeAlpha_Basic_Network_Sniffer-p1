@@ -50,4 +50,4 @@ Below is the verified screenshot of the network sniffer running on Linux, captur
 
 ![Network Sniffer Screen Evidence](screenshot.png)
 
-*Replace the `screenshot.png` file name above with the actual image file name you upload to this repository.*
+
